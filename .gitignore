@@ -1,0 +1,4 @@
+.venv
+file.py
+.pytest_cache
+*.pyc
